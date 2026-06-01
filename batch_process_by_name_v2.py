@@ -29,7 +29,7 @@ SENSORS = [
     'ANCHTEN1', 'ANCHTEN2', 'ANCHTEN3', 'GenPwr', 'RotSpeed'
 ]
 
-WINDOW_SIZE_SEC = 180 
+WINDOW_SIZE_SEC = 360 
 OUTPUT_CSV = 'fowt_master_dataset.csv'
 
 def process_file(file_path):
